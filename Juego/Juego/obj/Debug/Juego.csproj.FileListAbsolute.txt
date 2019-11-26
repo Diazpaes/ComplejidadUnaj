@@ -1,0 +1,6 @@
+C:\Users\LU547RD\Documents\facundo\Facultad\Complejidad temporal\Tp-Integrador\Juego\Juego\obj\Debug\Juego.csprojResolveAssemblyReference.cache
+C:\Users\LU547RD\Documents\facundo\Facultad\Complejidad temporal\Tp-Integrador\Juego\Juego\bin\Debug\Juego.exe.config
+C:\Users\LU547RD\Documents\facundo\Facultad\Complejidad temporal\Tp-Integrador\Juego\Juego\bin\Debug\Juego.exe
+C:\Users\LU547RD\Documents\facundo\Facultad\Complejidad temporal\Tp-Integrador\Juego\Juego\bin\Debug\Juego.pdb
+C:\Users\LU547RD\Documents\facundo\Facultad\Complejidad temporal\Tp-Integrador\Juego\Juego\obj\Debug\Juego.exe
+C:\Users\LU547RD\Documents\facundo\Facultad\Complejidad temporal\Tp-Integrador\Juego\Juego\obj\Debug\Juego.pdb
