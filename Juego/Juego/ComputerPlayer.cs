@@ -31,7 +31,7 @@ namespace juegoIA
             Console.WriteLine();
 			
 			}
-	public void Creararbol(NodoGeneral<int> nodopadre, List<int> a, List<int> b, bool miTurno, int tope)
+		public void Creararbol(NodoGeneral<int> nodopadre, List<int> a, List<int> b, bool miTurno, int tope)
         {
             for (int i = 0; i < a.Count; i++)
             {
